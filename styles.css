@@ -1,0 +1,42 @@
+#formheader {
+    background-color: whitesmoke;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-color: rgb(187, 187, 187)185, 185);
+    
+}
+#formbody {
+    border-color: rgb(187, 187, 187)185, 185);
+    
+  
+}
+
+h2 {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+ #radioBG { 
+    
+    border-radius: 5px;
+    height: 50px;
+    width: 300px;
+    background-color: grey;
+    
+}
+/* font awesome color editor */
+.inverted-icon {
+    color: #fff; 
+    background-color: #000; 
+}
+#formfooter {
+    background-color: whitesmoke;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-color: rgb(187, 187, 187)185, 185);
+    
+}
+#dollarsign {
+    margin-top: 7px;
+    margin-right: 4px;
+    margin-bottom: 7px;
+}
